@@ -1,7 +1,7 @@
 ## Bowser
 A Browser detector. Because sometimes, there is no other way, and not even good modern browsers always provide good feature detection mechanisms.
 
-[![bowser ci](https://secure.travis-ci.org/ded/bowser.png)](https://travis-ci.org/ded/bowser/)
+[![Build Status](https://travis-ci.org/lancedikson/bowser.svg?branch=v2)](https://travis-ci.org/lancedikson/bowser)
 
 So... it works like this:
 
